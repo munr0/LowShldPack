@@ -1,0 +1,15 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Unobtrusive Offhand Shield",
+        "description": "Created by Munro Anderson",
+        "uuid": "4c4e58b1-6620-4ebb-b37b-2e0814325c97",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "213bf1b2-2418-49fa-bf14-1cafb23cc67e",
+        "version": [1, 0, 0]
+    }]
+}
