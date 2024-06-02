@@ -5,16 +5,8 @@
 			"loop": true,
 			"bones": {
 				"shield": {
-					"position": [
-						-17.0,
-						18.0,
-						"variable.is_using_bow ? -variable.off_hand_first_person_with_bow_pos_z : 2.5"
-					],
-					"rotation": [
-						-5.0,
-						185.0,
-						179.5
-					]
+					"position": [ -17.0, 18.0, "variable.is_using_bow ? variable.off_hand_first_person_with_bow_pos_z : 2.5" ],
+					"rotation": [ -5.0, 185.0, 179.5 ]
 				}
 			}
 		},
